@@ -1,0 +1,45 @@
+grocery = [
+	{
+		"id": 0, 
+		"name": "milk",
+	  	"price": 2,
+	  	"image": "img/milk.jpg",
+	  	"cart": 0
+	}, {
+		"id": 1,
+		"name": "lemon",
+	  	"price": 0.50,
+	  	"image": "img/lemon.jpg",
+	  	"cart": 0
+	}, {
+		"id": 2, 
+		"name": "orange juice",
+	  	"price": 3,
+	  	"image": "img/juice.jpg",
+	  	"cart": 0
+	}, {
+		"id": 3,
+		"name": "french cheese",
+	  	"price": 4,
+	  	"image": "img/cheese.jpg",
+	  	"cart": 0
+	}, {
+		"id": 4,
+		"name": "apples",
+	  	"price": 2,
+	  	"image": "img/apples.jpg",
+	  	"cart": 0
+	 }, {
+	 	"id": 5,
+		"name": "soda",
+	  	"price": 2,
+	  	"image": "img/soda.jpg",
+	  	"cart": 0
+	 }, {
+	 	"id": 6,
+		"name": "honey",
+	  	"price": 5,
+	  	"image": "img/honey.jpg",
+	  	"cart": 0
+	 }
+]
